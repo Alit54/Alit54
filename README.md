@@ -2,6 +2,7 @@
 - 👀 I’m interested in Motorsport Competitions and Programming World
 - 🌱 I’m currently studying at the Università degli Studi di Milano as an informatic student
 - 📫 You can reach me here on GitHub or via:
+  - Gmail: simonealex.casciaro@gmail.com
   - Instagram: @Alit_54
   - Twitter: @Alit_54
   - Facebook: Simone Casciaro
