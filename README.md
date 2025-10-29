@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Alit54 - My name is Simone Alessandro Casciaro
 - 👀 I’m interested in Motorsport Competitions and Programming World
-- 🌱 I’m currently studying at the Università degli Studi di Milano as an informatic student
+- 🧑‍🎓 I graduated at Università degli Studi di Milano on February 2025
+- 🌱 I’m currently studying at the Università degli Studi di Milano as a master informatic student
 - 📫 You can reach me here on GitHub or via:
   - Gmail: simonealex.casciaro@gmail.com
   - Instagram: @Alit_54
